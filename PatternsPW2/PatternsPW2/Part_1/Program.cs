@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace PatternsPW2.Part_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}
